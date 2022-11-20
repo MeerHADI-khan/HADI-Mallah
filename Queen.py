@@ -1,7 +1,7 @@
 <p master="center">
 <a href="https://MEERHADI-KHAN.github.io/"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
-<a href="https://MEERHADI-KHAN-KHAN.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.5-green.svg?style=flat-square"></a>
+<a href="https://MEERHADI-KHAN-.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.5-green.svg?style=flat-square"></a>
 
 <h3 master="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
